@@ -5,7 +5,6 @@ import io.javabrains.springbootstarter.model.Topic;
 import io.javabrains.springbootstarter.service.TopicService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
 import java.util.List;
 
